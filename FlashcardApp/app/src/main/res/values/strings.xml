@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlashcardApp</string>
+    <string name="correct"># Correct:</string>
+</resources>
